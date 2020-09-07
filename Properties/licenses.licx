@@ -1,0 +1,9 @@
+DevExpress.XtraBars.BarManager, DevExpress.XtraBars.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Snap.SnapControl, DevExpress.Snap.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraCharts.ChartControl, DevExpress.XtraCharts.v19.2.UI, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.Navigation.OfficeNavigationBar, DevExpress.XtraBars.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Snap.Extensions.SnapDockManager, DevExpress.Snap.v19.2.Extensions, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraPrinting.Preview.DocumentViewer, DevExpress.XtraPrinting.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.Repository.RepositoryItemDateEdit, DevExpress.XtraEditors.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
